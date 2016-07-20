@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<country>
+<name>Canada</name>
+<division type="province">
+	<name>Alberta</name>
+	<capital>Edmonton</capital>
+</division>
+
+<division type="province">
+	<name>British Columbia</name>
+	<capital>Victoria</capital>
+</division>
+
+<division type="province">
+	<name>Manitoba</name>
+	<capital>Winnepeg</capital>
+</division>
+
+<division type="province">
+	<name>New Brunswick</name>
+	<capital>Fredericton</capital>
+</division>
+
+<division type="province">
+	<name>Newfoundland and Labrador</name>
+	<capital>St. John's</capital>
+</division>
+
+<division type="territory">
+	<name>Northwest Territories</name>
+	<capital>Yellowknife</capital>
+</division>
+
+<division type="province">
+	<name>Nova Scotia</name>
+	<capital>Halifax</capital>
+</division>
+
+<division type="territory">
+	<name>Nunavut</name>
+	<capital>Iqualuit</capital>
+</division>
+
+<division type="province">
+	<name>Ontario</name>
+	<capital>Toronto</capital>
+</division>
+
+<division type="province">
+	<name>Prince Edward Island</name>
+	<capital>Charlottetown</capital>
+</division>
+
+<division type="province">
+	<name>Quebec</name>
+	<capital>Quebec City</capital>
+</division>
+
+<division type="province">
+	<name>Saskatchewan</name>
+	<capital>Regina</capital>
+</division>
+
+<division type="territory">
+	<name>Yukon Territory</name>
+	<capital>Whitehorse</capital>
+</division>
+</country>
